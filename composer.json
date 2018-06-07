@@ -18,8 +18,8 @@
     },
     "require": {
         "mhor/php-mediainfo": "^5.0",
-        "symfony/console": "^4.0",
-        "symfony/framework-bundle": "^4.0"
+        "symfony/console": "^3|^4",
+        "symfony/framework-bundle": "^3|^4"
     },
     "require-dev": {
         "codeclimate/php-test-reporter": "dev-master",
