@@ -1,12 +1,15 @@
 {
-    "name": "thcolin/scene-release-parser",
+    "name": "mochaka/scene-release-parser",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "thcolin",
             "email": "th.colin3@gmail.com"
-        }
+        },
+        {
+	    "name": "Mochaka"
+	}
     ],
     "autoload": {
 	    "psr-4": {
